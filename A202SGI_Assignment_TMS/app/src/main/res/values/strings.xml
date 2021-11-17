@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="logintext">A202SGI TMS</string>
+    <string name="emailtext">E-mail</string>
+    <string name="passwordtext">Password</string>
+    <string name="confirmpasswordtext">Confirm Password</string>
+    <string name="loginbutton">Login</string>
+    <string name="register">Don\'t have an account? </string>
+    <string name="registerbutton">Register</string>
+    <string name="forgotbutton">Forgot Password?</string>
+    <string name="username">Username</string>
+    <string name="back">Go Back</string>
+</resources>
